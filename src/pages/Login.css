@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  }
+  
+.body{
+    background: linear-gradient(#497323, #874992);
+    
+  }
+  
+  Button{
+    color: black;
+    padding: 100px;
+    border-radius: 50%;
+    font-size: 200px;
+    margin: 50px 400px;
+  }
+  
+  
+  .Navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: #9198e5;
+  }
+  h1{
+    font-style: italic;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  back
