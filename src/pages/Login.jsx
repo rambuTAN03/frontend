@@ -6,6 +6,7 @@ function Login() {
 
     return (
       <>
+      <div className="body">
       <header className='Navbar'>
     <h1>Gear Guard</h1>
       <li>Yash</li>
@@ -13,7 +14,7 @@ function Login() {
       <li>Zack</li>
     </header>
         <h1>Login Page</h1>
-        
+        </div>
       </>
     )
   }
